@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Win8nl</id>
+    <version>1.0.4</version>
+    <authors>Joost van Schaik</authors>
+    <owners>Joost van Schaik</owners>
+    <licenseUrl>http://win8nl.codeplex.com/license</licenseUrl>
+    <projectUrl>http://win8nl.codeplex.com/</projectUrl>
+    <iconUrl>http://www.schaikweb.net/miscimages/Win8nl.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>This project started as a port of the Dutch Windows Phone 7 utilities library wp7nl (http://wp7nl.codeplex.com). It's now growing in its own direction and now contains some Windows 8 specific stuff</description>
+    <language>en-US</language>
+    <dependencies>
+      <dependency id="Rx-Main" version="2.0.20814" />
+      <dependency id="WinRtBehaviors" version="1.0.1" />
+    </dependencies>
+  </metadata>
+</package>
